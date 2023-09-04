@@ -11,5 +11,7 @@ function query($query) {
     }
     return $rows;
 
+    return $reza;
 }
 ?>
+
